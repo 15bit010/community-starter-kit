@@ -1,11 +1,18 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+this project help to developer by messages
 
 ## What it does
 
-FEATURES PLACEHOLDER
+this project send messages when developer :
 
+---
+
+#create branch
+#issue created
+#merge of branch
+
+---
 ## Getting started
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
