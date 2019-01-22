@@ -4,7 +4,3 @@ _Use this template if you have questions about how to use the Team Roundup app. 
 
 _Briefly describe your question here. What are you trying to accomplish with Team Roundup bot?_
 
-## I've already tried
-
-_Help us help you by letting us know what you have already tried in your efforts to accomplish this. If you don't put anything here, we are likely to point you to the docs :wink:_
-
