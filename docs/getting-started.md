@@ -35,6 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-Great! , your repository is merged
+Great!, your repository is merged
+Great!, chages updated
 
-CONFIGS PLACEHOLDER
