@@ -36,5 +36,5 @@ firstPRMergeComment: >
 ### Example Messages
 
 Great!, your repository is merged
-Great!, chages updated
+Great!, changes updated
 
