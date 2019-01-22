@@ -4,7 +4,7 @@ this project help to developer by messages
 
 ## What it does
 
-this project send messages when developer :
+this project send messages according developer actions.
 
 ---
 
