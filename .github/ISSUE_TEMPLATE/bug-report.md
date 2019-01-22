@@ -4,17 +4,3 @@ _Use this template if you have questions about how to use the Team Roundup app. 
 
 _Briefly describe your question here. What are you trying to accomplish with Team Roundup bot?_
 
-klfkbgh
-flhb;flb
-fb;lfl
-
-
-
-
-
-
-
-
-
-
-dkblf;
